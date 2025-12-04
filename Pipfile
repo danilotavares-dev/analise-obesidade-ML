@@ -12,11 +12,13 @@ ipykernel = "*"
 plotly = "*"
 optuna = "*"
 setuptools = "*"
-flask = "*"
 sweetviz = "*"
 statsmodels = "*"
 numpy = "<2.0"
 joblib = "*"
+pydantic = "*"
+flask = "*"
+flask-pydantic = "*"
 
 [dev-packages]
 
